@@ -1,0 +1,28 @@
+img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height:200px;
+    padding:20px;
+    
+}
+
+button 
+{
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    font-size: medium;
+    font-family: fantasy;
+    margin-left: 10%;
+    margin-top: 50px;
+}
+
+p
+{
+    font-family: Fantasy;
+    text-align: center;
+    font-size: medium;
+}
